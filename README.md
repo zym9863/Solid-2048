@@ -1,3 +1,5 @@
+[English](README_EN.md)
+
 # 2048 游戏 - Solid.js 版本
 
 这是一个使用 Solid.js 构建的经典 2048 数字游戏，具有现代化的界面设计和流畅的游戏体验。
